@@ -1,5 +1,5 @@
 # ResNet50 vs EfficientNet-B0: A Comparative Analysis for Tumor Recognition
-[![DOI](https://zenodo.org/badge/1206210765.svg)](https://doi.org/10.5281/zenodo.19705505)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19749011.svg)](https://doi.org/10.5281/zenodo.19749011)
 ## Overview
 This repository contains a direct, side-by-side comparative study between **ResNet50** and **EfficientNet-B0** for tumor recognition. The study focuses on evaluating the performance, accuracy, convergence speed, and loss of these two popular convolutional neural network architectures.
 
